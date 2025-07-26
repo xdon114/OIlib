@@ -1,6 +1,6 @@
 # Languages
 
-- [简体中文]()
+- [简体中文](https://github.com/xdon114/OIlib/blob/main/README-zh.md)
 - [English]()
 
 # OIlib
